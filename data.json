@@ -83,5 +83,12 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png",
         "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
     }
+{
+        "name": "CT SPORTS CZ",
+        "id": "cts",
+        "category": "Sports",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.mpd",
+"keyId":"2434575687667","key":"3455656656677"
+    },
 
-]
